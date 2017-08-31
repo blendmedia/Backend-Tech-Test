@@ -21,7 +21,7 @@ Do not worry about:
 To submit your solution, please either:
 
 * Put the code under source control, publicly host the repository on Github, and provide us a link, or
-* Send us a ZIP file including everything we would need to run it ourselves.
+* Email us a ZIP file including everything we would need to run it (excluding the downloaded data) to work@blend.media
 
 Once we receive your submission, we will try to re-run it locally, and take a look at your code style. We'll then get back to your shortly to give you our feedback.
 
