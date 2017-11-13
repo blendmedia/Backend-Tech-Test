@@ -1,14 +1,14 @@
 ## Backend Engineer - Technical Test
 
-The following test is used to give us an idea of your technical style and ability. Whilst we would prefer you complete it using Elixir and Phoenix, you may use any language and framework which will allow you to complete the exercise in a reasonable length of time.
+The following test is used to give us an idea of your technical style and ability. Whilst we would greatly prefer you complete it using Elixir and Phoenix, you may use any language and framework which shows off your web development skills. We would like a rough estimate of how long this task took you, but we would much prefer you submit something you are proud of and can easily talk about, rather than something done quickly.
 
 ### The exercise
 
 The exercise requires you to build a simple web application which fulfils the following criteria:
 
-* **Ingests a few simple CSV files** - Use the URL [here](https://data.police.uk/) to download a ZIP file, containing a reasonably-sized data set. We recommend you stick to one police force, and somewhere between 6-12 months. You should import the generated CSV files into a database of your choice, and store them however you wish.
+* **Ingests a few simple CSV files** - Use the URL [here](https://data.police.uk/) to access the open Police Data website. Use the Downloads section to create a reasonable sized data set in the order of 50k-100k rows, which should download in the form of a folder containing several CSV files. We recommend you stick to one police force, and somewhere between 6-12 months. You should import the generated CSV files into a database of your choice, and store them however you see fit.
 * **Shows the data on a page** - Create a simple page in your framework of choice that we can visit to view the data in a reasonable manner. Do not worry about fancy styling or layouts - this is not what we are trying to assess.
-* **Allow simple sorting or filtering** - Create a way to sort or filter the data by one of the fields. What you choose to search or sort on is up to you; all we would like to see is your approach.
+* **Allow simple sorting or filtering** - Create a way to sort the data by one of the fields, and also filter them using some mechanism. What you choose to search or sort on is up to you; all we would like to see is your approach.
 * **Shows an understanding of unit/integration testing** - Show that you are familiar with TDD (test-driven development), and show us an example of how you would choose to test your implementation.
 
 Do not worry about:
