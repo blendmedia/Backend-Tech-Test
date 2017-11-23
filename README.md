@@ -1,6 +1,6 @@
 ## Backend Engineer - Technical Test
 
-The following test is used to give us an idea of your technical style and ability. Whilst we would greatly prefer you complete it using Elixir and Phoenix, you may use any language and framework which shows off your web development skills. We would like a rough estimate of how long this task took you, but we would much prefer you submit something you are proud of and can easily talk about, rather than something done quickly.
+The following test is used to give us an idea of your technical style and ability. Please use Elixir and/or Phoenix to complete the test. We would like a rough estimate of how long this task took you, but we would much prefer you submit something you are proud of and can easily talk about, rather than something done quickly.
 
 ### The exercise
 
